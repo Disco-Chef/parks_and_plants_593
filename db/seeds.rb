@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Garden.destroy_all
+# Garden.destroy_all
 
 gardens = [ {name: 'English Garden', banner_url: 'https://www.muenchen.de/media/sw/mho/monopteros-panorama-hp.jpg'}, {name: 'Palmengarten', banner_url: 'https://www.frankfurt-tipp.de/fileadmin/_processed_/5/4/csm_Palmengartenneu_02b29e83bd.jpg' }]
 
